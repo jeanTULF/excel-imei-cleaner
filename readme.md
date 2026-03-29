@@ -45,18 +45,6 @@ python excel_cleaner.py
 
 ---
 
-## 📁 Estructura del proyecto
-
-```
-excel-imei-cleaner/
-│
-├── excel_cleaner.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
 
 ## 📌 Notas
 
